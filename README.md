@@ -33,6 +33,8 @@ M5Stack IR Remote Unit
 
 MicroSD card
 
+,
+
 OK: send signal
 
 S: saved signal
