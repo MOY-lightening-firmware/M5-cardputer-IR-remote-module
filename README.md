@@ -1,3 +1,5 @@
+M5-CARDPUTER-IR REMOTE
+
 🚀 Features
 IR Signal Reception  
 Reads IR signals from the IR Remote Unit and decodes them.
@@ -23,7 +25,8 @@ IR Receiver → G1
 
 IR Transmitter → G2
 
-🧰 Requirements
+🧰 Requirements:
+
 M5Stack Cardputer
 
 M5Stack IR Remote Unit
